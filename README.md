@@ -1,9 +1,5 @@
 # 🦸 Classificador de Níveis de Herói
 
-<div align="center">
-  <img src="https://i.imgur.com/JQZ1l0a.png" alt="Interface do Classificador" width="600">
-</div>
-
 Uma aplicação web interativa que classifica heróis em diferentes níveis baseados em sua experiência (XP), com um design moderno e animações suaves.
 
 ## 🚀 Tecnologias
