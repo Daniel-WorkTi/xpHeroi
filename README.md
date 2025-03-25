@@ -35,4 +35,4 @@ Uma aplicação web interativa que classifica heróis em diferentes níveis base
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/hero-level-classifier.git
+git clone https://github.com/seu-usuario/xpHeroi-classifier.git
