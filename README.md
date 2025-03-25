@@ -1,52 +1,42 @@
-# xpHeroi
-README - Classificador de Nível de Herói
-📌 Visão Geral
-Este projeto é uma aplicação web simples que classifica heróis em diferentes níveis com base em sua experiência (XP). A interface permite que os usuários insiram o nome do herói e sua quantidade de XP, retornando o nível correspondente.
+# 🦸 Classificador de Níveis de Herói
 
-✨ Funcionalidades
-Classificação automática de heróis em 8 níveis diferentes
+<div align="center">
+  <img src="https://i.imgur.com/JQZ1l0a.png" alt="Interface do Classificador" width="600">
+</div>
 
-Interface moderna com efeito glassmorphism
+Uma aplicação web interativa que classifica heróis em diferentes níveis baseados em sua experiência (XP), com um design moderno e animações suaves.
 
-Design responsivo que se adapta a diferentes tamanhos de tela
+## 🚀 Tecnologias
 
-Validação de entrada para garantir dados corretos
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
 
-Animação suave ao exibir resultados
+## ✨ Recursos
 
-🛠️ Tecnologias Utilizadas
-HTML5
+- 🌈 Interface com efeito glassmorphism
+- 🎯 Sistema de classificação automática
+- 📱 Design totalmente responsivo
+- 🚀 Animações suaves e modernas
+- 🛡️ Validação de dados de entrada
 
-CSS3 (com efeitos modernos)
+## 🏆 Tabela de Níveis
 
-JavaScript Vanilla
+| XP            | Nível      | Cor          |
+|---------------|-----------|--------------|
+| < 1.000       | Ferro     | `#a19d94`    |
+| 1.001-2.000   | Bronze    | `#cd7f32`    |
+| 2.001-5.000   | Prata     | `#c0c0c0`    |
+| 5.001-7.000   | Ouro      | `#ffd700`    |
+| 7.001-8.000   | Platina   | `#e5e4e2`    |
+| 8.001-9.000   | Ascendente| `#5d8aa8`    |
+| 9.001-10.000  | Imortal   | `#b9f2ff`    |
+| > 10.001      | Radiante  | `#ff0000`    |
 
-📂 Estrutura de Arquivos
-Copy
-hero-level-classifier/
-├── index.html          # Arquivo principal HTML
-├── styles.css          # Estilos CSS da aplicação
-└── script.js           # Lógica JavaScript do classificador
-🚀 Como Executar
-Clone ou baixe este repositório
+## 🛠️ Como Usar
 
-Abra o arquivo index.html em qualquer navegador moderno
-
-Preencha os campos:
-
-Nome do Herói
-
-Quantidade de XP
-
-Clique em "Verificar Nível" para ver a classificação
-
-🌈 Tabela de Níveis
-XP	Nível
-Menos de 1.000	Ferro
-1.001-2.000	Bronze
-2.001-5.000	Prata
-5.001-7.000	Ouro
-7.001-8.000	Platina
-8.001-9.000	Ascendente
-9.001-10.000	Imortal
-Acima de 10.001	Radiante
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/hero-level-classifier.git
